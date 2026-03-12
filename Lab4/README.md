@@ -19,8 +19,8 @@
 ## Как запустить
 Выполните следующие команды в терминале:
 ```shell
-$ python -m venv env
-$ source env/bin/activate
-$ pip install -r requirements.txt
-$ python main.py
+python -m venv env
+source env/bin/activate
+pip install -r requirements.txt
+python main.py
 ```
