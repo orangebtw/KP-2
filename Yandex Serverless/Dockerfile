@@ -6,4 +6,4 @@ COPY . .
 
 RUN pip install flask pillow
 
-CMD ["python", "app.py"]
+CMD ["python", "main.py"]
