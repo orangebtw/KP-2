@@ -143,7 +143,7 @@ yc serverless container revision deploy \
 ```
 project/
 │
-├── app.py
+├── main.py
 ├── Dockerfile
 └── README.md
 ```
